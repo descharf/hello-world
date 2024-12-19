@@ -4,3 +4,4 @@ blue
 pink
 yellow
 purple
+vanila
