@@ -26,3 +26,5 @@ change4 in remote
 change3 in local
 
 change5 in remote
+
+change6 in remote
