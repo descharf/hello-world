@@ -18,4 +18,8 @@ change2 in remote
 
 change3 in remote
 
+
 change2 in local
+
+change4 in remote
+
