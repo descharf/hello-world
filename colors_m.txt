@@ -10,3 +10,5 @@ vanila
 fetch...
 
 change1 in remote
+
+change1 in local
