@@ -17,3 +17,5 @@ change1 in local
 change2 in remote
 
 change3 in remote
+
+change2 in local
